@@ -49,17 +49,17 @@ button{
   color: white;
   display: flex;
   justify-content: space-between;
+  align-items: center;
 }
 .name {
   padding: 10px;
   font-family: Bebas Neue;
-  padding-left: 5%;
+  padding-left: 50px;
 }
 .social-bar {
   text-decoration: none;
-  margin-top: 40px;
   gap: 100px;
-  padding-right: 5%;
+  padding-right: 50px;
 }
 .social-bar a {
   font-family: Inter;
