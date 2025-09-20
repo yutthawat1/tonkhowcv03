@@ -90,14 +90,16 @@ button{
     display: flex;
     justify-content: center;
     color: white;
+    gap: 250px;
 }
 .text2-sec{
     width: 500px;
+    margin-left: 100px;
 }
 .main-sec2 h1{
     font-family: Bebas Neue;
     font-size: 60px;
-    margin-right: 220px;
+    margin-left: 80px;
 }
 .text2-sec h2{
     font-family: Prompt;
