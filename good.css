@@ -20,11 +20,13 @@ p {
   display: flex;
   margin-top: 50px;
 }
-.butt button {
+button {
   display: flex;
   align-items: center;
   font-family: Prompt;
   padding: 10px;
+  padding-left: 30px;
+  padding-right: 30px;
   background-color: #7a99e9;
   border: none;
   border-radius: 60px;
@@ -170,4 +172,55 @@ p {
   width: 400px;
   margin-right: 100px;
   margin-left: 50px;
+}
+.main-sec5{
+  display: flex;
+  color: white;
+  justify-content: center;
+  gap: 100px;
+  margin-top: 100px;
+  margin-bottom: 50px;
+}
+
+.main-sec5 h1 {
+  font-family: Bebas Neue;
+  font-size: 60px;
+  width: 400px;
+  margin-right: 100px;
+}
+.text5{
+  width: 300px;
+  margin-right: 100px;
+  padding-left: 50px;
+}
+.form1{
+  margin-left: 50px;
+}
+.form1 form{
+  display: flex;
+  flex-direction: column;
+  width: 500px;
+  gap: 10px;
+}
+.input {
+  background-color: #060135;
+  border: none;
+  height: 40px;
+}
+.form1 textarea{
+  height: 200px;
+}
+.text5 i{
+  color: #7A99E9;
+  font-size: 20px;
+}
+.form1 button{
+  font-family: Manrope;
+}
+.footer{
+  display: flex;
+  justify-content: center;
+  color: white;
+  font-family: Prompt;
+  margin: 50px;
 }
